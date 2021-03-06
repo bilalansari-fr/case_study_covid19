@@ -1,5 +1,5 @@
 <!-- Add banner here -->
-![Banner](https://sfc.asso.fr/wp-content/uploads/2020/03/Covid.jpg)
+![Banner](https://drive.google.com/uc?export=view&id=1nrw7cb3VXTJbHQgoBs6rI5KhOSuoRiUP)
 
 # Case Study: COVID-19
 
@@ -36,6 +36,7 @@ To answer the above question statistically, we formulate following two case stud
 <img src="https://render.githubusercontent.com/render/math?math=H_1:"> At least the means of COVID-19 confirmed cases of two regions are different from each other.
 
 **Case Study-2: COVID-19 (Fatality Cases)**
+
 <img src="https://render.githubusercontent.com/render/math?math=H_0:">There is no statistical difference in the mean of COVID-19 fatality cases across the different regions. <br>
 <img src="https://render.githubusercontent.com/render/math?math=H_1:"> At least the means of COVID-19 fatality cases of two regions are different from each other.
 
